@@ -10,4 +10,4 @@ It's a free application that creates and verifies an MD5 hash value.
 ![ss3](assets/3.jpg)
 
 ## Download
-You can simply choose the suitable installation for your Windows OS [in the realeases section](https://github.com/mhmdkrmabd/md5-app/releases).
+You can simply choose the suitable installation for your Windows OS [in the releases section](https://github.com/mhmdkrmabd/md5-app/releases).
